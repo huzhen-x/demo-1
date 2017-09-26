@@ -1,0 +1,3 @@
+2017-09-22 17:30:25,462 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-22 17:30:33,046 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 8.537 seconds (JVM running for 9.267)
+2017-09-22 17:31:05,639 DEBUG (MainController.java:37)- 访问hello

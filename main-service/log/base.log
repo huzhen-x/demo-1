@@ -1,0 +1,71 @@
+2017-09-26 08:02:39,211 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:02:48,521 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 10.528 seconds (JVM running for 12.645)
+2017-09-26 08:43:01,085 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:43:05,466 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.827 seconds (JVM running for 2429.59)
+2017-09-26 08:43:59,952 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:44:04,158 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.613 seconds (JVM running for 2488.282)
+2017-09-26 08:44:09,365 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:44:13,516 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.556 seconds (JVM running for 2497.64)
+2017-09-26 08:44:16,763 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:44:20,782 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.411 seconds (JVM running for 2504.906)
+2017-09-26 08:44:30,103 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:44:34,171 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.458 seconds (JVM running for 2518.296)
+2017-09-26 08:44:37,526 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:44:41,536 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.398 seconds (JVM running for 2525.661)
+2017-09-26 08:45:17,007 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:45:21,043 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.429 seconds (JVM running for 2565.168)
+2017-09-26 08:45:32,512 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:45:36,518 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.431 seconds (JVM running for 2580.642)
+2017-09-26 08:47:38,164 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:47:42,509 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.75 seconds (JVM running for 2706.633)
+2017-09-26 08:49:01,975 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:49:06,431 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.845 seconds (JVM running for 2790.555)
+2017-09-26 08:49:29,098 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:49:53,690 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:49:58,317 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:50:02,417 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.494 seconds (JVM running for 2846.542)
+2017-09-26 08:50:30,060 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:50:34,247 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.584 seconds (JVM running for 2878.371)
+2017-09-26 08:50:42,984 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:50:47,586 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.993 seconds (JVM running for 2891.711)
+2017-09-26 08:51:06,377 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:51:11,092 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 5.127 seconds (JVM running for 2915.217)
+2017-09-26 08:51:17,979 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:51:38,082 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:51:43,322 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:51:48,150 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:52:37,464 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:53:23,319 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:54:15,513 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:55:20,219 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 08:56:30,669 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 09:00:12,346 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 09:00:18,993 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 7.629 seconds (JVM running for 8.345)
+2017-09-26 09:02:02,965 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 09:02:07,168 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.628 seconds (JVM running for 116.52)
+2017-09-26 09:26:07,932 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 09:26:16,822 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 10.106 seconds (JVM running for 10.966)
+2017-09-26 10:11:07,256 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 10:11:11,527 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.676 seconds (JVM running for 2705.671)
+2017-09-26 10:11:31,965 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 10:11:36,098 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 4.527 seconds (JVM running for 2730.242)
+2017-09-26 10:14:22,644 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 10:14:36,807 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 15.158 seconds (JVM running for 15.902)
+2017-09-26 10:26:40,510 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 10:26:50,534 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 10.552 seconds (JVM running for 749.628)
+2017-09-26 10:37:05,699 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 10:37:17,606 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 10:37:29,190 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 12.594 seconds (JVM running for 13.32)
+2017-09-26 10:45:39,160 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 10:45:52,517 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 14.499 seconds (JVM running for 15.293)
+2017-09-26 10:59:39,120 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 10:59:48,448 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 10.038 seconds (JVM running for 851.224)
+2017-09-26 10:59:53,756 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 11:00:01,664 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 8.38 seconds (JVM running for 864.44)
+2017-09-26 11:00:12,620 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 11:01:15,360 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 11:01:26,756 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 12.434 seconds (JVM running for 13.151)
+2017-09-26 11:09:09,006 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 11:09:21,377 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 13.484 seconds (JVM running for 14.329)
+2017-09-26 11:47:06,378 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-26 11:47:14,740 INFO (StartupInfoLogger.java:57)- Started MainServiceApplication in 8.827 seconds (JVM running for 2287.693)
